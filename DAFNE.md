@@ -1,6 +1,5 @@
 ---
 format: 0
-requires: []
 banks:
   - name: social-dynamics
     bank: ./memory
