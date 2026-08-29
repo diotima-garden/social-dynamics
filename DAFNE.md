@@ -25,8 +25,6 @@ social pressure.
 | `./memory/` | mem-bank: session history |
 | `./artifacts/` | Genesis planning doc for this grove |
 
-This `banks:` config is a placeholder scaffold — the live subscription source of
-truth remains `groves/mem-bank-subscriptions.json` in the monorepo until Phase 3
-of the DAFNE execution plan wires mem-bank to read it from here. Extracted from
-the monorepo as part of DAFNE Phase 2, even though the plan's original target
-topology didn't name it — a deliberate scope addition, decided when Phase 2 began.
+Extracted from the monorepo as part of DAFNE Phase 2, even though the plan's
+original target topology didn't name it — a deliberate scope addition, decided
+when Phase 2 began.
