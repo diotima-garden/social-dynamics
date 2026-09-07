@@ -33,7 +33,7 @@ pressure. Reuse `principles.md`; define drill-specific dimensions.
 **Effort:** medium. **Leverage:** medium (coverage of the real target contexts).
 
 ## 4. Activate the leak-log as a real-world rep loop
-**Why:** `context.md` notes an Anki leak-log as a *future* seam. The research now motivates
+**Why:** `DAFNE.md` notes an Anki leak-log as a *future* seam. The research now motivates
 it: text can't train performance-under-arousal (rung 3, "Regulation") — transfer needs real
 reps (rung 4). A log of real-world attempts/misses that feeds back into drill scenarios
 closes the loop the simulator structurally can't.

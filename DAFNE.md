@@ -10,20 +10,23 @@ banks:
 
 # social-dynamics — frame-control drills grove
 
-A **grove**: a DAFNE node carrying memory (the bank above). Root node —
-no `parents/` directory. Not language-learning content and carries no
-Anki requirement — a text-only simulator for frame-control drills under
-social pressure.
+Training enclave for holding a strong, unbothered, playful frame under social pressure —
+maintaining boundaries without over-explaining, justifying, or acting needy.
 
-| File | What |
+The grove's core is a conversational **simulator** (it throws a scenario, you respond, it
+grades you) plus the **principles** that define a good response. It is text-only; drills
+run as LLM conversations. Optional later tools (Anki leak-log, web-research evidence,
+DAFNE) are noted as seams in the repo-root build plan, not built.
+
+Read `./memory/context.md`
+
+## Files in this area
+
+| Path | What |
 |---|---|
-| `./context.md` | Grove overview |
-| `./principles.md` | Frame-control principles |
-| `./drills/dating-frame/` | Drill scenario, context, rubric |
-| `./research/` | Background research |
-| `./memory/` | mem-bank: session history |
-| `./artifacts/` | Genesis planning doc for this grove |
-
-Extracted from the monorepo as part of DAFNE Phase 2, even though the plan's
-original target topology didn't name it — a deliberate scope addition, decided
-when Phase 2 began.
+| `./principles.md` | Cross-cutting theory shared by every drill: the target (calibrated assertiveness) and the failure modes to catch in both directions. |
+| `./drills/` | One subfolder per training drill. Each drill is self-contained: its own index, grading rubric, and versioned artifacts. |
+| `./drills/dating-frame/` | Frame-control under dating pressure (probing questions, shit-tests, late cancellations, vulnerability checks). **The only drill so far.** |
+| `./research/` | Collected efficacy evidence ("artifact proofs") on whether such simulations work. |
+| `./improvement-plan.md` | Deferred, research-motivated changes to the grove (grader calibration, recognition scoring, a `saying-no` drill, the leak-log loop). |
+| `./artifacts/` | Grove-level artifacts, incl. `social-dynamics-grove-plan.md` — the original turnkey build plan this grove was created from. |
