@@ -5,7 +5,7 @@ banks:
     bank: ./memory
     graduate: false
     patterns:
-      - ".*"
+      - "social-dynamics/memory/context\\.md"
 ---
 
 # social-dynamics — frame-control drills grove
