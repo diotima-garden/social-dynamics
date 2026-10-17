@@ -9,8 +9,8 @@ frame, don't leak neediness").
 failure modes. It deliberately holds no theory of behavior change: how an understood
 intention becomes an automatic one, how many changes can run at once, and what the
 evidence grades are all live one layer up in
-[`parents/behavior-rewiring/principles.md`](parents/behavior-rewiring/principles.md).
-Read that before designing a drill or a rep loop; don't re-derive it here.
+`parents/behavior-rewiring/principles.md`. Read that before designing a drill or a rep
+loop; don't re-derive it here.
 
 ## The target: calibrated assertiveness
 The goal is not "hold frame" and not "be tougher" — it is **calibration**: advocating for

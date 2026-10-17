@@ -55,7 +55,8 @@ parent supplies the loop; this grove supplies the domain. Concretely:
 - **One active target at a time.** The parent's detection-load argument caps this grove at
   a single active interception target regardless of how many failure modes
   `principles.md` lists; the rest go on a written queue. Do not run the leak-log as a
-  general "watch for all five leaks" exercise — that is the failure the parent rules out.
+  general "watch for every failure mode" exercise — that is the failure the parent rules
+  out.
 - **Ours alone:** the bank itself (`memory/`, with `this-bank-prompt.md`'s de-identifying
   transform), the mapping from logged leaks back into simulator scenarios, and any Anki
   cards. The parent holds no logs by design.

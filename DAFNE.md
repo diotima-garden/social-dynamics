@@ -45,10 +45,10 @@ drill content there. Where to look:
 
 | If you're asking | Read |
 |---|---|
-| How does an intention become automatic? How many changes at once? | `parents/.../principles.md` — **before designing any drill or rep loop** |
-| Is this claim actually evidenced? | `parents/.../sources.md` (graded A–F; several popular claims are **F**) |
-| How do I run a rep loop / force interception? | `parents/.../protocols/` — single-target sprint, delay rule |
-| Is this settled or still a bet? | `parents/.../open-questions.md` |
+| How does an intention become automatic? How many changes at once? | `parents/behavior-rewiring/principles.md` — **before designing any drill or rep loop** |
+| Is this claim actually evidenced? | `parents/behavior-rewiring/sources.md` (graded A–F; several popular claims are **F**) |
+| How do I run a rep loop / force interception? | `parents/behavior-rewiring/protocols/` — single-target sprint, delay rule |
+| Is this settled or still a bet? | `parents/behavior-rewiring/open-questions.md` |
 | What counts as a good response to social pressure? | `./principles.md` (this grove) |
 | Does a text simulator work for *boundary* skills? | `./research/` (this grove) |
 
