@@ -29,6 +29,7 @@ Read `./memory/context.md`
 | `./drills/` | One subfolder per training drill. Each drill is self-contained: its own index, grading rubric, and versioned artifacts. |
 | `./drills/dating-frame/` | Frame-control under dating pressure (probing questions, shit-tests, late cancellations, vulnerability checks). **The only drill so far.** |
 | `./research/` | Collected efficacy evidence ("artifact proofs") on whether such simulations work. |
+| `./reps/` | Real-world rep loops — the parent's sprint protocol instantiated for this grove's cue. `catch-log.md` is sprint 1 (recognition only). The one place this grove produces evidence instead of consuming it. |
 | `./improvement-plan.md` | Deferred, research-motivated changes to the grove (grader calibration, recognition scoring, a `saying-no` drill, the leak-log loop). |
 | `./artifacts/` | Grove-level artifacts, incl. `social-dynamics-grove-plan.md` — the original turnkey build plan this grove was created from. |
 | `./parents/behavior-rewiring/` | Parent node — the theory of behavior change, its evidence grades, and reusable rep-loop protocols. Read in place; routing table below. |

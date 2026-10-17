@@ -62,4 +62,14 @@ parent supplies the loop; this grove supplies the domain. Concretely:
   cards. The parent holds no logs by design.
 
 **Effort:** medium (down from medium–high — the protocol and schema are now inherited).
-**Leverage:** medium (it's the ceiling-raiser, but only useful once 1–3 are solid).
+**Leverage:** medium–high.
+
+**Not blocked by #1–#3 — start it first.** An earlier version of this item said it was
+"only useful once 1–3 are solid." That is wrong for the recognition-only sprint
+specifically: items #1–#3 are all simulator work (grader calibration, scoring Detection
+inside the drill, a second drill), and a recognition-only sprint happens in the world —
+notice a crossing, write one line, change nothing. It needs no grader and no simulator,
+and per the parent's `sources.md` §8 the log is an active ingredient, not bookkeeping.
+It is also the only item here that generates evidence rather than consuming it, which is
+what the parent's `open-questions.md` §1 says these logs are for. Running it alongside
+#1–#3 is the right order; waiting is the thing that keeps rep count at zero.
