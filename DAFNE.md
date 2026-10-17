@@ -15,8 +15,9 @@ maintaining boundaries without over-explaining, justifying, or acting needy.
 
 The grove's core is a conversational **simulator** (it throws a scenario, you respond, it
 grades you) plus the **principles** that define a good response. It is text-only; drills
-run as LLM conversations. Optional later tools (Anki leak-log, web-research evidence,
-DAFNE) are noted as seams in the repo-root build plan, not built.
+run as LLM conversations. Optional later tools (Anki leak-log, web-research evidence)
+are noted as seams in the repo-root build plan, not built; DAFNE parenthood is built —
+see Parents below.
 
 Read `./memory/context.md`
 
