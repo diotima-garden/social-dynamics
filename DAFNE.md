@@ -44,8 +44,13 @@ place. There is no compile step in this grove and mounting a parent does not add
 `#include ./parents/behavior-rewiring/...` stays available for if a drill prompt ever
 becomes layered, but it is one use of the relationship, not its definition.
 
-The node is near-empty at mounting time (2026-10-17) — only its manifest and a
-population plan. The first place its content has to earn its keep is
-`improvement-plan.md` item #4, the leak-log: turning real-world attempts and misses into
-a loop that feeds back into drills is exactly the "real-time friction" step that node's
-theory is about.
+The node is populated as of 2026-10-17: `principles.md` (the stance — detection load as
+the real budget, one active target at a time, cue→response pairs over traits),
+`sources.md` (claims graded A–F, including the popular ones that fail),
+`protocols/` (single-target sprint, delay rule), and `open-questions.md`. Read
+`parents/behavior-rewiring/principles.md` before designing any new drill or rep loop here.
+
+The first place its content has to earn its keep is `improvement-plan.md` item #4, the
+leak-log: turning real-world attempts and misses into a loop that feeds back into drills
+is exactly the interception step that node's theory is about — and
+`protocols/single-target-sprint.md` is the catch-log schema to build it from.
