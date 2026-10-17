@@ -15,14 +15,20 @@ example responses, their correct grade on each rubric dimension, and *why*. Anch
 grader to `principles.md` and gives a way to spot drift when the simulator is regenerated.
 **Effort:** low. **Leverage:** high (de-risks the whole grove).
 
-## 2. Score recognition explicitly in the live drill
+## 2. Score recognition explicitly in the live drill — **done (simulator v2)**
 **Why:** recognition is rung 1 and the highest-yield capacity for the target profile (the
 appeaser who doesn't register the crossing). `principles.md` now names it and `rubric.md`
 adds a **Detection** dimension — but the live simulator artifact
 (`drills/dating-frame/artifacts/soc-dynamic-gemini-first-attempt.md`) predates this and
 doesn't yet throw *ambiguous/soft* crossings or grade whether they were flagged.
 **What:** revise the simulator prompt to include soft-test scenarios and to grade Detection.
-**Effort:** low–medium. **Leverage:** high (it's the rung this profile fails first).
+**Done** in `drills/dating-frame/artifacts/simulator-v2.md`, which also fixed a defect this
+item had not named: v1 graded every dimension in a single direction, and it was the
+appeasing direction — so overshooting into coldness or point-scoring would have scored
+*well*. Both poles are now named per dimension. Soft and non-crossing scenarios are in,
+because Detection cannot be scored when every scenario is a crossing.
+**Consequence for #1:** it is now *more* load-bearing, not less. v2 grades more dimensions,
+in both directions, with no gold-standard set behind it.
 
 ## 3. Second drill: `drills/saying-no/` (work / family)
 **Why:** the "swallowing boundary-crossings" profile shows up *most* outside dating —
