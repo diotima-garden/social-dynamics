@@ -1,0 +1,3 @@
+[submodule "parents/behavior-rewiring"]
+	path = parents/behavior-rewiring
+	url = https://github.com/diotima-garden/behavior-rewiring.git
