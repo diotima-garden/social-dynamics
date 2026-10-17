@@ -29,10 +29,40 @@ Read `./memory/context.md`
 | `./drills/` | One subfolder per training drill. Each drill is self-contained: its own index, grading rubric, and versioned artifacts. |
 | `./drills/dating-frame/` | Frame-control under dating pressure (probing questions, shit-tests, late cancellations, vulnerability checks). **The only drill so far.** |
 | `./research/` | Collected efficacy evidence ("artifact proofs") on whether such simulations work. |
-| `./reps/` | Real-world rep loops — the parent's sprint protocol instantiated for this grove's cue. `catch-log.md` is sprint 1 (recognition only). The one place this grove produces evidence instead of consuming it. |
+| `./reps/` | Real-world rep loops — the parent's sprint protocol instantiated for this grove's cue. `catch-log.md` is sprint 1: counting boundary pushes at the time, sorting declined-vs-swallowed later on residue. Capture is Keep → paper journal → this file at the ruling. The one place this grove produces evidence instead of consuming it. |
 | `./improvement-plan.md` | Deferred, research-motivated changes to the grove (grader calibration, recognition scoring, a `saying-no` drill, the leak-log loop). |
 | `./artifacts/` | Grove-level artifacts, incl. `social-dynamics-grove-plan.md` — the original turnkey build plan this grove was created from. |
 | `./parents/behavior-rewiring/` | Parent node — the theory of behavior change, its evidence grades, and reusable rep-loop protocols. Read in place; routing table below. |
+
+## Running a drill
+
+**"Continue with the drills" is the main interface to this grove.** When the practitioner
+says that, or anything like it, do not ask them to supply a prompt and do not invent a
+drill. The session-start hook has already injected this manifest *and* the populated
+mem-bank content before the first turn, so the session history is in hand — use what is
+already in context rather than re-reading `./memory/small-bank.md`.
+
+1. **Build the menu from the open threads the bank already shows** — patterns it flags
+   for continued drilling, scenarios it records as unfinished. That is what "continue"
+   refers to. Do not hardcode a list here; it would go stale against the bank.
+   With one drill, the menu is over *resume points*, not over drills: continue the
+   recurring pattern, pick up an unfinished scenario, or start a fresh set.
+2. **Read the drill's own files — these are not auto-injected.**
+   `./drills/<name>/context.md`, `./drills/<name>/rubric.md`, and the artifact marked
+   **currently live** in that drill's table. The live artifact is the operating
+   instruction: adopt it, don't hand it over.
+3. **Run it here.** You are the simulator. Grade against every rubric dimension, in both
+   failure directions.
+4. Capture happens at the end through the mem-bank subsystem under
+   `./memory/this-bank-prompt.md`'s de-identifying transform — abstract training signal
+   only, nothing personal.
+
+**Weight the bank over a fresh reading of `principles.md`.** The leak it currently reports
+is not the one the principles would predict, and a session that drills the predicted
+failure instead of the recorded one trains the wrong thing.
+
+**Drills available:** `dating-frame` only. `saying-no` for work and family pressure is
+`improvement-plan.md` #3, not built.
 
 ## Parents
 
