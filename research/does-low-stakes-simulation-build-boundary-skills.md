@@ -1,5 +1,15 @@
 # Does a low-stakes simulator help you get good at setting boundaries?
 
+> **Layer note (added 2026-10-17).** The *general* form of §1 (acquisition vs. performance
+> deficit) and §3 (why arousal drives transfer) was promoted to the parent node and now
+> lives in `parents/behavior-rewiring/principles.md` §5, with the evidence graded in its
+> `sources.md` §5. This document was the input to that principle, not a copy of it — what
+> stays here is the **social-dynamics-specific** evidence: assertiveness-training RCTs, the
+> VRET public-speaking pilot, and the honest assessment of *this* simulator in §4. Read the
+> parent for the mechanism; read this for whether it applies to boundary drills. Don't
+> re-research the general case.
+
+
 **Question under test.** A friend argued that a text-based social simulator *"will not be
 efficient because there are no actual stakes involved."* The counter-claim: for a person who
 engineered their life around conflict-avoidance and has a reflex of *swallowing*

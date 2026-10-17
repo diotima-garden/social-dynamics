@@ -37,8 +37,28 @@ pressure. Reuse `principles.md`; define drill-specific dimensions.
 it: text can't train performance-under-arousal (rung 3, "Regulation") — transfer needs real
 reps (rung 4). A log of real-world attempts/misses that feeds back into drill scenarios
 closes the loop the simulator structurally can't.
-**What:** promote the leak-log from "someday" to an actual capture → review → feed-back-into-
-drills flow. This is what turns the grove from a scaffold into something with a path to
-real-world transfer.
-**Effort:** medium–high. **Leverage:** medium (it's the ceiling-raiser, but only useful once
-1–3 are solid).
+
+**What:** this is no longer a design problem — **instantiate
+`parents/behavior-rewiring/protocols/single-target-sprint.md` for this grove's cue.** The
+parent supplies the loop; this grove supplies the domain. Concretely:
+
+- **The cue is ours to name.** Write the target as the parent requires — one line,
+  `when <detectable social trigger>, I <one specified behavior>`. Per `principles.md`,
+  the first sprint here should almost certainly be **recognition-only**: log that a
+  crossing occurred, change nothing. The parent explicitly sanctions that as a legitimate
+  first sprint, which resolves the open question of what to log before any behavior is
+  reliable.
+- **The schema is the parent's catch-log**, not a new one — cue fired / outcome / load /
+  one line. Two of its rules matter here and we would likely have got them wrong: *don't
+  add fields*, and *count "noticed only afterwards" as a win early on*, or the log records
+  nothing for two weeks and dies. The `load` column is what makes the log speak to rung 3.
+- **One active target at a time.** The parent's detection-load argument caps this grove at
+  a single active interception target regardless of how many failure modes
+  `principles.md` lists; the rest go on a written queue. Do not run the leak-log as a
+  general "watch for all five leaks" exercise — that is the failure the parent rules out.
+- **Ours alone:** the bank itself (`memory/`, with `this-bank-prompt.md`'s de-identifying
+  transform), the mapping from logged leaks back into simulator scenarios, and any Anki
+  cards. The parent holds no logs by design.
+
+**Effort:** medium (down from medium–high — the protocol and schema are now inherited).
+**Leverage:** medium (it's the ceiling-raiser, but only useful once 1–3 are solid).

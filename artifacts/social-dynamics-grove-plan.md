@@ -1,6 +1,15 @@
 # Build Plan — `social-dynamics` grove
 
-**Status:** design approved in architect mode; ready to implement.
+> **Historical record — executed, do not follow.** This is the original turnkey plan the
+> grove was built from, kept for its locked design rationale. Two things in it are
+> superseded: the `groves/<name>/` paths and central `.claude/mem-bank/subscriptions.json`
+> predate the DAFNE migration (the grove is now its own repo, declaring its bank in its own
+> `DAFNE.md`), and the "Grove inheritance: **None** now" decision in §1 **no longer holds** —
+> the grove mounts `parents/behavior-rewiring` and §5's deferred "cross-grove inheritance"
+> seam has been taken. For current structure read `../DAFNE.md`; for the theory layer read
+> `../parents/behavior-rewiring/principles.md`.
+
+**Status:** executed. (Original: design approved in architect mode; ready to implement.)
 **Execute in builder mode** (creating a grove modifies files under `groves/` and the
 mem-bank registry — `interaction-mode-enforcement.md` requires builder mode first).
 

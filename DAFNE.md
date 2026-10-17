@@ -16,8 +16,8 @@ maintaining boundaries without over-explaining, justifying, or acting needy.
 The grove's core is a conversational **simulator** (it throws a scenario, you respond, it
 grades you) plus the **principles** that define a good response. It is text-only; drills
 run as LLM conversations. Optional later tools (Anki leak-log, web-research evidence)
-are noted as seams in the repo-root build plan, not built; DAFNE parenthood is built —
-see Parents below.
+are noted as seams in `artifacts/social-dynamics-grove-plan.md` §5, not built; DAFNE
+parenthood is built — see Parents below.
 
 Read `./memory/context.md`
 
@@ -25,32 +25,33 @@ Read `./memory/context.md`
 
 | Path | What |
 |---|---|
-| `./principles.md` | Cross-cutting theory shared by every drill: the target (calibrated assertiveness) and the failure modes to catch in both directions. |
+| `./principles.md` | The stance shared by every drill: the target (calibrated assertiveness) and the failure modes to catch in both directions. Not theory of change — that's the parent's. |
 | `./drills/` | One subfolder per training drill. Each drill is self-contained: its own index, grading rubric, and versioned artifacts. |
 | `./drills/dating-frame/` | Frame-control under dating pressure (probing questions, shit-tests, late cancellations, vulnerability checks). **The only drill so far.** |
 | `./research/` | Collected efficacy evidence ("artifact proofs") on whether such simulations work. |
 | `./improvement-plan.md` | Deferred, research-motivated changes to the grove (grader calibration, recognition scoring, a `saying-no` drill, the leak-log loop). |
 | `./artifacts/` | Grove-level artifacts, incl. `social-dynamics-grove-plan.md` — the original turnkey build plan this grove was created from. |
-| `./parents/behavior-rewiring/` | Parent node — shared theory on how an understood intention becomes an automatic behavior. Read in place; see below. |
+| `./parents/behavior-rewiring/` | Parent node — the theory of behavior change, its evidence grades, and reusable rep-loop protocols. Read in place; routing table below. |
 
 ## Parents
 
-`parents/behavior-rewiring` — the base node holding theory, sources, and curation
-decisions on deliberate behavior change, shared with future practice groves rather than
-owned privately here.
+`parents/behavior-rewiring` (populated 2026-10-17) holds the **theory of behavior change**
+for this grove and its future siblings. Read those files **in place** — the relationship is
+semantic reference, not compilation.
 
-The relationship is **semantic reference**: sessions in this grove read those files in
-place. There is no compile step in this grove and mounting a parent does not add one —
-`#include ./parents/behavior-rewiring/...` stays available for if a drill prompt ever
-becomes layered, but it is one use of the relationship, not its definition.
+**The division of labour: the parent knows how behavior changes; this grove knows what
+good looks like under social pressure.** So don't re-derive mechanism here, and don't put
+drill content there. Where to look:
 
-The node is populated as of 2026-10-17: `principles.md` (the stance — detection load as
-the real budget, one active target at a time, cue→response pairs over traits),
-`sources.md` (claims graded A–F, including the popular ones that fail),
-`protocols/` (single-target sprint, delay rule), and `open-questions.md`. Read
-`parents/behavior-rewiring/principles.md` before designing any new drill or rep loop here.
+| If you're asking | Read |
+|---|---|
+| How does an intention become automatic? How many changes at once? | `parents/.../principles.md` — **before designing any drill or rep loop** |
+| Is this claim actually evidenced? | `parents/.../sources.md` (graded A–F; several popular claims are **F**) |
+| How do I run a rep loop / force interception? | `parents/.../protocols/` — single-target sprint, delay rule |
+| Is this settled or still a bet? | `parents/.../open-questions.md` |
+| What counts as a good response to social pressure? | `./principles.md` (this grove) |
+| Does a text simulator work for *boundary* skills? | `./research/` (this grove) |
 
-The first place its content has to earn its keep is `improvement-plan.md` item #4, the
-leak-log: turning real-world attempts and misses into a loop that feeds back into drills
-is exactly the interception step that node's theory is about — and
-`protocols/single-target-sprint.md` is the catch-log schema to build it from.
+The first place the parent earns its keep is `improvement-plan.md` item #4, the leak-log:
+it is now an *instantiation* of `protocols/single-target-sprint.md` for a social cue rather
+than a loop this grove has to design.
