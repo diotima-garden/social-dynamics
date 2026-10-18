@@ -5,9 +5,15 @@ its own versioned simulator artifacts. This file is the part that is the same fo
 them. Read it before running a drill; read the drill's own `context.md` for what that drill
 trains.
 
-**Drills available:** `dating-frame` only — frame-control under dating pressure (probing
-questions, shit-tests, late cancellations, vulnerability checks). `saying-no` for work and
-family pressure is `../improvement-plan.md` #3, not built.
+**Drills available:**
+
+| Drill | Register | When to pick it |
+|---|---|---|
+| `dating-frame` | Status pressure — probing questions, shit-tests, late cancellations, vulnerability checks. | The relationship is new or exitable and the pressure is a test. |
+| `saying-no` | Obligation pressure at work and in the family — guilt-trips, unasked-for advice, assumed favours. | The relationship does not end, and the cost of the reply outlives the exchange. |
+
+Offer both when the practitioner hasn't said which. They share `../principles.md` and this
+procedure; they have different rubrics because the registers differ.
 
 ## Running one
 

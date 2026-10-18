@@ -15,6 +15,6 @@ How a drill is picked and run is shared across drills and lives in `../context.m
 |---|---|
 | `./artifacts/simulator.md` | The live operating instruction — adopt it, don't hand it over. Always this path; revisions replace the file. |
 | `./rubric.md` | This drill's grading dimensions: Detection / Subtext / Leverage / Thermodynamics. |
-| `./calibration.md` | **Not written.** The gold-standard set that would validate the grader — `../../improvement-plan.md` #1. The simulator's example lines are its intake path. |
+| `./calibration.md` | The gold-standard set the grader is anchored to — five cases with known correct grades, spanning both failure poles. Re-run it whenever the simulator is revised. Live tier-2 answers are its intake path. |
 
 Shared stance and failure modes live one level up in `../../principles.md`.
