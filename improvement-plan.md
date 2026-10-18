@@ -1,9 +1,14 @@
 # Social Dynamics — Improvement Plan
 
 Deferred changes surfaced by the efficacy research
-(`research/does-low-stakes-simulation-build-boundary-skills.md`). Items #1–#3 from that
-review are already applied (recognition scoring, over-assertion failure modes, grove-level
-principle broadened to calibrated assertiveness). What remains, in priority order:
+(`research/does-low-stakes-simulation-build-boundary-skills.md`). That review's own first
+three findings were applied long ago (recognition scoring, over-assertion failure modes,
+grove-level principle broadened to calibrated assertiveness); the numbered items below are
+this file's own list and are tracked separately.
+
+**Status.** #1 done for `dating-frame`, outstanding for `saying-no`. #2 done
+(simulator v3). #3 done. #4 is live and unblocked — it is waiting on reps, not on work.
+The one piece of building left in this file is a calibration set for the second drill.
 
 ## 1. Grader-calibration artifact — **done for `dating-frame`, open for `saying-no`**
 **Why:** the research finding is that the LLM grader *is* the mechanism — it's the "feedback"
