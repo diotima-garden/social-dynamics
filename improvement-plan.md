@@ -15,6 +15,14 @@ example responses, their correct grade on each rubric dimension, and *why*. Anch
 grader to `principles.md` and gives a way to spot drift when the simulator is regenerated.
 **Effort:** low. **Leverage:** high (de-risks the whole grove).
 
+**Intake path, added with simulator v3.** This item no longer needs a separate authoring
+project. v3's modeling step produces, in live reps, exactly what this artifact is specified
+to contain — a worked example response with its per-dimension reasoning attached. What #1
+now needs is the habit of recording those, not an afternoon of inventing them. It also got
+*more* load-bearing again: v3 does not merely grade in more directions than v1, it now
+asserts worked answers, and an unvalidated grader asserting answers is a faster route to a
+confident wrong reflex than an unvalidated grader merely scoring.
+
 ## 2. Score recognition explicitly in the live drill — **done (simulator v2)**
 **Why:** recognition is rung 1 and the highest-yield capacity for the target profile (the
 appeaser who doesn't register the crossing). `principles.md` now names it and `rubric.md`
@@ -39,7 +47,7 @@ pressure. Reuse `principles.md`; define drill-specific dimensions.
 **Effort:** medium. **Leverage:** medium (coverage of the real target contexts).
 
 ## 4. Activate the leak-log as a real-world rep loop
-**Why:** `DAFNE.md` notes an Anki leak-log as a *future* seam. The research now motivates
+**Why:** `artifacts/social-dynamics-grove-plan.md` §5 notes an Anki leak-log as a *future* seam. The research now motivates
 it: text can't train performance-under-arousal (rung 3, "Regulation") — transfer needs real
 reps (rung 4). A log of real-world attempts/misses that feeds back into drill scenarios
 closes the loop the simulator structurally can't.
@@ -79,3 +87,38 @@ and per the parent's `sources.md` §8 the log is an active ingredient, not bookk
 It is also the only item here that generates evidence rather than consuming it, which is
 what the parent's `open-questions.md` §1 says these logs are for. Running it alongside
 #1–#3 is the right order; waiting is the thing that keeps rep count at zero.
+
+## 5. Modeling step in the live drill — **done (simulator v3)**
+**Why:** `research/does-low-stakes-simulation-build-boundary-skills.md` §2 names the
+validated loop as **instruction → modeling → rehearsal → feedback**, and the one large-effect
+trial it cites (Damen et al. 2025, d ≈ 1.23–1.40) is *expert demonstration then role-play*.
+v2 ran three of those four — it graded the attempt but never showed the thing done well.
+The parent's `parents/behavior-rewiring/principles.md` §4 is what makes this load-bearing
+rather than cosmetic: the best-evidenced mechanism in the area is the **if-then anchor**, a
+pre-written cue-bound one-line behavioral response, and a grade cannot become an anchor. A
+correct diagnosis leaves nothing to fire the next time the cue lands.
+**What:** **Done** in `drills/dating-frame/artifacts/simulator.md` — the live simulator now
+sits at a stable filename, so superseded revisions keep versioned names beside it and are
+linked from nowhere a practitioner reads. The step itself is two-tier:
+tier 1 every rep names the missing *move* at concept level; tier 2, on request or on a bad
+miss, gives one example line with the per-dimension reason attached. Never before the
+attempt — generation first, then compare — and deliberately not every rep, because a script
+on tap replaces the generation that is the training effect.
+**Consequence for #1:** it supplies #1's intake (see above) and raises its stakes.
+
+---
+
+## Structural note — `drills/context.md` is a grove-local choice
+
+The shared "how to run a drill" procedure moved out of `DAFNE.md` into
+`drills/context.md` (2026-10-18), so the always-loaded manifest carries a routing table and
+the one turn-1 rule, and the procedure is read at the moment it applies. That trim was a
+door the orchestrator's `grove_orientation.md` already held open once session orientation
+shipped; the *new* part is introducing a mid-level directory context between the manifest
+and a leaf.
+
+Recorded here because it is a pattern other groves could inherit, and inheriting it by
+accident is worse than adopting it deliberately. Nothing in the engine knows about it —
+only a manifest's YAML frontmatter is machine-read, so this is a convention, not a
+contract. If a second grove wants the same shape, promote it in the orchestrator's
+architect layer rather than copying this directory.

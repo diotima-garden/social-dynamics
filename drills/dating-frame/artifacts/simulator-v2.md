@@ -1,6 +1,10 @@
 # Simulator v2 — Dating Frame-Control
 
-**Status: currently live.** Supersedes `soc-dynamic-gemini-first-attempt.md`.
+**Status: superseded — kept for comparison, linked from nowhere.** The live simulator is
+`simulator.md`. This revision superseded `soc-dynamic-gemini-first-attempt.md`.
+
+*Its grove-root links below are off by one directory level (`../../x` where `../../../x` was
+meant). Left as found; `simulator.md` has them right.*
 
 This is the **operating instruction for the session agent**, not a prompt to paste
 elsewhere. An agent running this drill adopts it directly. It does not open with a
