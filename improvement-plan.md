@@ -5,7 +5,7 @@ Deferred changes surfaced by the efficacy research
 review are already applied (recognition scoring, over-assertion failure modes, grove-level
 principle broadened to calibrated assertiveness). What remains, in priority order:
 
-## 1. Grader-calibration artifact — do first
+## 1. Grader-calibration artifact — **done for `dating-frame`, open for `saying-no`**
 **Why:** the research finding is that the LLM grader *is* the mechanism — it's the "feedback"
 in instruction → modeling → rehearsal → feedback. If it mis-grades (rewards a smooth line
 that would land badly, or flags a healthy boundary as "needy"), the drill trains the wrong
@@ -14,6 +14,13 @@ reflex. Its validity is currently unvalidated, so it silently underwrites everyt
 example responses, their correct grade on each rubric dimension, and *why*. Anchors the
 grader to `principles.md` and gives a way to spot drift when the simulator is regenerated.
 **Effort:** low. **Leverage:** high (de-risks the whole grove).
+**Done** for dating-frame: `drills/dating-frame/calibration.md`, a five-entry seed set
+chosen to span the known failure directions — missed detection, invented detection,
+hostility, coldness, plus one calibrated reply so over-harsh drift is detectable too.
+Each entry carries the correct per-dimension grade, the reason, and which way a wrong
+grade would err. Growth path is live tier-2 answers, not a second authoring project.
+**Still open:** the same artifact for `saying-no`, where the risk is sharper because its
+Cost dimension judges a relationship the grader cannot see.
 
 **Intake path, added with simulator v3.** This item no longer needs a separate authoring
 project. v3's modeling step produces, in live reps, exactly what this artifact is specified
@@ -38,13 +45,18 @@ because Detection cannot be scored when every scenario is a crossing.
 **Consequence for #1:** it is now *more* load-bearing, not less. v2 grades more dimensions,
 in both directions, with no gold-standard set behind it.
 
-## 3. Second drill: `drills/saying-no/` (work / family)
+## 3. Second drill: `drills/saying-no/` (work / family) — **done**
 **Why:** the "swallowing boundary-crossings" profile shows up *most* outside dating —
 guilt-trips, unreasonable asks at work. Dating-frame is a narrow instance of a broad problem;
 the principles are already drill-agnostic, so the seam exists.
 **What:** new drill folder (context + rubric + simulator artifact) for non-dating boundary
 pressure. Reuse `principles.md`; define drill-specific dimensions.
 **Effort:** medium. **Leverage:** medium (coverage of the real target contexts).
+**Done.** `drills/saying-no/` with context, rubric and live simulator. It is not a reskin:
+the relationship is non-exitable, the pressure is obligation rather than status, and
+delay is a legitimate move, so the dimensions are Detection / Specificity / Cost to the
+relationship / Presence rather than dating-frame's four. The tiered-modeling machinery
+carried over unchanged, being drill-agnostic. Its calibration set is item #1's remainder.
 
 ## 4. Activate the leak-log as a real-world rep loop
 **Why:** `artifacts/social-dynamics-grove-plan.md` §5 notes an Anki leak-log as a *future* seam. The research now motivates
