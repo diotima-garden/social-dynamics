@@ -12,7 +12,7 @@ time a grade feels off. Run the replies below through the current grader and com
 A disagreement is not automatically the grader's fault — but it has to be resolved
 deliberately, here, rather than silently absorbed into a session.
 
-**It is a seed set, not a canon.** Five entries, chosen to span the known failure
+**It is a seed set, not a canon.** Six entries, chosen to span the known failure
 directions, including one calibrated reply so that drift toward over-harsh grading shows
 up too. The growth path is live reps: a tier-2 model answer worth keeping, with its
 per-dimension reasoning already attached, is exactly an entry here. Add them as they
@@ -119,12 +119,41 @@ reaction — not by withholding one's own state. This entry is in the set specif
 catch that drift. If the grader fails entry 5, it has swung past the target and will start
 training entry 1.
 
+## 6. The clause inside the compliment
+
+*Live-rep intake, 2026-10-18.*
+
+**Scenario.** Two months in, Sunday at hers, she is half-scrolling. "My ex used to get so
+weird about me going to these work things. Like, properly sulky." Pause. "It's nice that
+you're not like that."
+
+**Reply.** "The universe decided to bless you."
+
+| Dimension | Correct grade | Why |
+|---|---|---|
+| Detection | **Fail — missed** | It is a compliment *and* a standing clause: "not like that" pre-frames any future objection, about anything, as ex-behaviour. The joke lets it land uncontested. Smooth is not the same as seen. |
+| Subtext | **Pass** | No flinch at the ex, no over-claiming the chill-guy identity, no dig at the predecessor. Confident rather than defensive. |
+| Leverage | **Pass** | Neither grabbed nor handed over in the moment — the leverage loss is deferred, and shows up as the unexamined clause rather than as a concession here. |
+| Thermodynamics and presence | **Fail — performing** | A one-line volley against a fragment of real history. Charming, and it receives nothing. Being unbothered, performed rather than inhabited. |
+
+**Calibrated contrast.** "I don't sulk. If something bugs me you'll just hear it." Answers
+the clause instead of the compliment; keeps the ex out of it; accepts *not sulky* while
+reserving the right to object, so nothing is signed; one line, warm by being direct.
+**What it trades:** a notch of lightness — the joke is funnier. The clause is worth more
+than the laugh here.
+
+**Which way a wrong grade errs: too kind.** The reply is witty, secure-sounding and
+costs nothing visible, and the scenario is deliberately mild — a grader looking for
+crossings will see a compliment and pass. It is also the near-neighbour of entry 3: the
+discipline is to fail the slide-by here *without* starting to invent crossings in warm
+messages. A grader that passes 6 and fails 3 is reading volume, not clauses.
+
 ---
 
 ## Reading the set as a whole
 
-Four of the five entries fail, and in four different directions: missed detection,
-invented detection, hostility, coldness. One passes. A grader that agrees on all five is
-calibrated across both poles of every dimension. A grader that agrees on the four failures
+Five of the six entries fail, and in four different directions: missed detection,
+invented detection, hostility, coldness. One passes. A grader that agrees on all six is
+calibrated across both poles of every dimension. A grader that agrees on the five failures
 but flags entry 5 has the over-correction problem, which is the more dangerous of the two
 for this practitioner — it would reward entry 1.
