@@ -63,7 +63,7 @@ delay is a legitimate move, so the dimensions are Detection / Specificity / Cost
 relationship / Presence rather than dating-frame's four. The tiered-modeling machinery
 carried over unchanged, being drill-agnostic. Its calibration set is item #1's remainder.
 
-## 4. Activate the leak-log as a real-world rep loop
+## 4. Activate the leak-log as a real-world rep loop — **running (sprint 1)**
 **Why:** `artifacts/social-dynamics-grove-plan.md` §5 notes an Anki leak-log as a *future* seam. The research now motivates
 it: text can't train performance-under-arousal (rung 3, "Regulation") — transfer needs real
 reps (rung 4). A log of real-world attempts/misses that feeds back into drill scenarios
@@ -91,6 +91,16 @@ parent supplies the loop; this grove supplies the domain. Concretely:
 - **Ours alone:** the bank itself (`memory/`, with `this-bank-prompt.md`'s de-identifying
   transform), the mapping from logged leaks back into simulator scenarios, and any Anki
   cards. The parent holds no logs by design.
+
+**Where it stands (2026-10-23).** Instantiated and split along the method/instance seam.
+`reps/context.md` holds the grove's half — the cue form, the residue discriminator, the
+three-surface capture pattern, the rollup schema; the live sprint (target, baseline,
+weekly numbers, ruling) is one practitioner's and moved to the private layer. Two
+corrections to the bullets above, both from first contact with the practitioner: the
+recognition-only first sprint was retired (detection was already reliable, so it would
+have trained a trained capacity), and the `load` column was dropped in favour of
+**residue** — still bugging me hours later — because load asks for a judgment the
+practitioner cannot make honestly in the moment.
 
 **Effort:** medium (down from medium–high — the protocol and schema are now inherited).
 **Leverage:** medium–high.
