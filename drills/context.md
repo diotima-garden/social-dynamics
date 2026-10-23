@@ -36,7 +36,11 @@ prompt, don't invent a drill.
    don't hand it over; ignore older versions in `artifacts/`).
 
 3. **Run it here.** You are the simulator. Grade every rubric dimension, both failure
-   directions.
+   directions. If the private layer named an active cue in step 1, close every rep with a
+   footer `Active cue: <line>`, where `<line>` is the cue's own header line verbatim —
+   the numbered "**N. Title** → action" line as the private file states it, copied exactly,
+   not paraphrased or summarized. The anchor's value is in repetition of the exact wording,
+   and that shouldn't depend on the model remembering to do it unprompted.
 
 4. **Don't hand-write the bank.** Capture is automatic via `../memory/this-bank-prompt.md`'s
    de-identifying transform. A `calibration.md` entry built from a private-layer scenario
