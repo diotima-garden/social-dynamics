@@ -12,7 +12,7 @@ time a grade feels off. Run the replies below through the current grader and com
 A disagreement is not automatically the grader's fault — but it has to be resolved
 deliberately, here, rather than silently absorbed into a session.
 
-**It is a seed set, not a canon.** Six entries, chosen to span the known failure
+**It is a seed set, not a canon.** Eight entries, chosen to span the known failure
 directions, including one calibrated reply so that drift toward over-harsh grading shows
 up too. The growth path is live reps: a tier-2 model answer worth keeping, with its
 per-dimension reasoning already attached, is exactly an entry here. Add them as they
@@ -148,12 +148,84 @@ crossings will see a compliment and pass. It is also the near-neighbour of entry
 discipline is to fail the slide-by here *without* starting to invent crossings in warm
 messages. A grader that passes 6 and fails 3 is reading volume, not clauses.
 
+## 7. Taking the joke onto himself
+
+*Live-rep intake, 2026-10-23.*
+
+**Scenario.** Two months in. Dinner with two of *his* friends, whom she has met twice. He
+has just said a sentence about his work. She turns to them: "God, don't get him started on
+the startup — I've heard that pitch about forty times. It's very cute." She does not look
+at him. One friend laughs; the other does not.
+
+**Reply.** "They say fiftieth time is a charm."
+
+| Dimension | Correct grade | Why |
+|---|---|---|
+| Detection | **Fail — missed** | The comment arrives with no warmth marker on it: no touch, no eye contact, addressed to his friends *about* him rather than to him, a diminutive ("cute"), and half the table does not laugh. A real crossing, smoothed over. |
+| Subtext | **Fail — neediness** | Self-deprecation bought to keep the room easy. It pays for the table's comfort with his own standing, in front of his own people. No hostility — and nothing held either. |
+| Leverage | **Fail — handed over** | Counting along ratifies the premise that the work is a repetitive bit. The joke becomes table stock, reusable by anyone there next time. |
+| Thermodynamics and presence | **Pass** | Genuinely warm, light, well-tempered. The failure is the direction the warmth is spent, not the temperature. |
+
+**Calibrated contrast.** To the friends, evenly, not to her: "It's going well, actually —
+ask me after dinner if you want the real version." Treats the comment as something that
+happened rather than something to smooth; not a word aimed at her, so no hostility;
+nothing self-diminishing, so no appeasement; declines "cute" and relocates the work as
+real without starting a contest. **What it trades:** it handles the frame but not the dig.
+The not-looking-at-him part goes unaddressed in the room, and should — if it is a pattern
+it is a separate conversation, in private. The line buys the evening, not the issue.
+
+**Which way a wrong grade errs: too kind.** Self-deprecation is the surface signature of a
+man secure enough not to defend his work, and a grader scoring *didn't get defensive,
+stayed warm* passes it. Read this entry with **entry 8**, which is its near-neighbour: the
+same shape — a public comment with a diminutive in it, in front of a group — and the
+opposite markers. The two differ by touch, eye contact, and who the line is addressed to,
+and by nothing much in the words. A grader that reads words will treat them alike and get
+one of them wrong whichever way it leans.
+
+## 8. The same shape, the other markers
+
+*Live-rep intake, 2026-10-23. Deliberate near-neighbour of entry 7.*
+
+**Scenario.** Three weeks in. At a bar with four of her friends, most of whom he has just
+met. He had mentioned the long drive over. She turns to the table: "He actually drove an
+hour to get here. *Loyal.*" — small laugh, hand briefly on his arm.
+
+**Reply.** "Do you always see the best in people?"
+
+| Dimension | Correct grade | Why |
+|---|---|---|
+| Detection | **Fail — invented** | The markers are all warm: a hand on his arm, said *to the table* as a bring-him-in move, in front of people she is introducing him to. There is maybe ten percent edge in the dog connotation of "loyal", and he answered the ten percent. The touch is the disambiguator, and it is the loudest thing in the scene. |
+| Subtext | **Fail — hostility** | A point-scoring inversion. Read literally it is aimed at *her judgment* — your read of me is naive — said in front of her friends. Mild, and the machinery is the same. |
+| Leverage | **Fail — grabbed** | He took the frame back when nobody was taking it. Small, but a rally starts where there was no contest. |
+| Thermodynamics and presence | **Fail — performing** | A question-shaped comeback is machinery. She pulled him into her group and he answered with a volley instead of being in it. |
+
+**Calibrated contrast.** Receive it. A compliment-shaped tease from someone with her hand
+on his arm is not a serve to return, and taking it warmly costs nothing in front of her
+friends. **What it trades:** nothing, which is the point — the only thing given up is the
+laugh the comeback would have got.
+
+**Which way a wrong grade errs: too kind.** The reply is quick and sounds unbothered, and
+a grader rewarding frame-work will pass it; the warmth it costs is invisible unless the
+markers are being read. Paired with entry 7 this is the set's sharpest test, because the
+two scenarios are near-identical in words and opposite in markers, and the recorded
+profile inverts them — armour toward the affectionate version here, compliance toward the
+real diminishment in 7. A grader that scores both the same way is reading volume, not
+markers, whichever way it leans.
+
 ---
 
 ## Reading the set as a whole
 
-Five of the six entries fail, and in four different directions: missed detection,
-invented detection, hostility, coldness. One passes. A grader that agrees on all six is
-calibrated across both poles of every dimension. A grader that agrees on the five failures
+Seven of the eight entries fail, and in four different directions: missed detection,
+invented detection, hostility, coldness. One passes. A grader that agrees on all eight is
+calibrated across both poles of every dimension. A grader that agrees on the seven failures
 but flags entry 5 has the over-correction problem, which is the more dangerous of the two
 for this practitioner — it would reward entry 1.
+
+Entries 3, 6, 7 and 8 form the discrimination spine: an unnecessary boundary against
+warmth, a clause hidden inside a compliment, a diminishment received as affection, and
+affection received as a diminishment. All four turn on reading markers rather than words.
+7 and 8 are a matched pair on purpose — same shape, opposite markers, opposite correct
+failure directions — so a grader cannot get both right by any rule that ignores touch,
+eye contact and who the line is addressed to. A grader that gets one of these right by a
+rule that gets another wrong is not calibrated, it is lucky.
