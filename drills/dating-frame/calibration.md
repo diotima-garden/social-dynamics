@@ -12,7 +12,7 @@ time a grade feels off. Run the replies below through the current grader and com
 A disagreement is not automatically the grader's fault — but it has to be resolved
 deliberately, here, rather than silently absorbed into a session.
 
-**It is a seed set, not a canon.** Eight entries, chosen to span the known failure
+**It is a seed set, not a canon.** Nine entries, chosen to span the known failure
 directions, including one calibrated reply so that drift toward over-harsh grading shows
 up too. The growth path is live reps: a tier-2 model answer worth keeping, with its
 per-dimension reasoning already attached, is exactly an entry here. Add them as they
@@ -214,11 +214,49 @@ markers, whichever way it leans.
 
 ---
 
+## 9. Warmth without the plain sentence
+
+*Live-rep intake, 2026-10-23.*
+
+**Scenario.** Four dates in, a few weeks. An hour after he dropped her home, 11pm,
+unprompted: "I'm bad at saying this over text but — I had a really good time tonight.
+You're easy to be around. That's rarer than it should be."
+
+**Reply.** "heey, what a sweet warm carrot cake of a message) I also enjoyed. Sleep well
+and we'll work on making it as it should be (less rare)"
+
+| Dimension | Correct grade | Why |
+|---|---|---|
+| Detection | **Fail — missed** | She flagged her own register switch — *I'm bad at saying this over text* — which is the marker: a sincere bid, not a volley. No line was crossed, so no boundary is owed; a plain answer is. The metaphor appraises the message and answers that instead of the bid. He correctly did *not* invent a crossing, which is why this is a half-miss rather than entry 3. |
+| Subtext | **Pass, with a tax** | No neediness, no hostility. But *what a sweet carrot cake of a message* judges the gesture, seating him as its appraiser in the one moment she stepped down from wit. |
+| Leverage | **Pass** | *We'll work on making it less rare* extends her own line forward and claims continuation without asking her to confirm anything. Proportionate — she opened that door. |
+| Thermodynamics and presence | **Pass** | Warm, light, present, closes the night cleanly. The dimension the profile usually fails holds here. The deficiency is content, not temperature. |
+
+**Calibrated contrast.** "Honestly I've been in a better mood all evening because of you.
+And I clocked that you dropped the sarcasm to say that — I liked it. Sleep well, carrot
+cake." Plain register first, in his own words, disclosing a state that asks nothing of
+her; the joke demoted to a tail, so the warmth is his rather than borrowed from her
+phrasing. **What it trades:** naming her register switch removes her deniability too, and
+some people feel caught by that rather than met. The safer variant keeps only the first
+sentence and is less precise.
+
+**Which way a wrong grade errs: too kind.** Every other failing entry is audible —
+coldness, a barb, an unnecessary rule. This reply is pleasant, reciprocal and leaves her
+feeling received, so a grader checking for crossings and for temperature finds nothing to
+flag. The miss is an asymmetry of cost: four unwrapped clauses from her, one five-word
+echo back, and *I also enjoyed* is the only thing in his message that could not possibly
+be wrong. Read it against **entry 5**, where disclosing his own state is exactly what
+makes the reply calibrated; here the absence of any disclosure of his own is the whole
+defect. A grader that cannot fail 9 will train banter as a universal solvent — warmth
+standing in for substance, which the bank records as "eloquence and play as shields."
+
+---
+
 ## Reading the set as a whole
 
-Seven of the eight entries fail, and in four different directions: missed detection,
-invented detection, hostility, coldness. One passes. A grader that agrees on all eight is
-calibrated across both poles of every dimension. A grader that agrees on the seven failures
+Eight of the nine entries fail, and in four different directions: missed detection,
+invented detection, hostility, coldness. One passes. A grader that agrees on all nine is
+calibrated across both poles of every dimension. A grader that agrees on the eight failures
 but flags entry 5 has the over-correction problem, which is the more dangerous of the two
 for this practitioner — it would reward entry 1.
 
@@ -229,3 +267,8 @@ affection received as a diminishment. All four turn on reading markers rather th
 failure directions — so a grader cannot get both right by any rule that ignores touch,
 eye contact and who the line is addressed to. A grader that gets one of these right by a
 rule that gets another wrong is not calibrated, it is lucky.
+
+Entry 9 is the set's quietest case: the only failing reply with nothing loud in it, no
+crossing to find and no coldness to flag. It pairs with 5 — the same question (does he put
+his own state in the message?) answered yes there and no here — and it is the entry a
+grader that has learned to reward warmth will pass.
