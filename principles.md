@@ -1,7 +1,7 @@
 # Principles — Social Dynamics
 
 The durable stance every drill in this grove trains toward. Drill-agnostic; each drill's
-concrete grading rubric lives in its own folder (`drills/<name>/rubric.md`) and expresses
+concrete grading dimensions live in its own file (`drills/<name>/context.md`) and express
 this stance in that drill's own idiom (e.g. dating-frame renders it as "hold a playful
 frame, don't leak neediness").
 
