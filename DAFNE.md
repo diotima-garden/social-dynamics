@@ -5,7 +5,12 @@ banks:
     bank: ./memory
     graduate: false
     patterns:
-      - "social-dynamics/memory/context\\.md"
+      # Fallback only: when the session's subject IS this grove the orchestrator sets
+      # in_session_scope and these are not consulted. They exist for a session run from
+      # elsewhere (master, another grove) that works on this one, so they name the
+      # surfaces such a session actually touches, not the bank's own index file.
+      - "social-dynamics/(drills|reps|memory)/"
+      - "social-dynamics/(principles|improvement-plan)\\.md"
 ---
 
 # social-dynamics — frame-control drills grove
