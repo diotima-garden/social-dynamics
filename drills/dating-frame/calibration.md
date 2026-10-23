@@ -7,7 +7,7 @@ started asserting worked answers it also decides what right looks like. Its vali
 otherwise unestablished. This file is the check: a small set of cases where the correct
 grade is known, chosen because they are the cases this grader is known to get wrong.
 
-**How to use it.** Read it when the simulator artifact is revised or regenerated, and any
+**How to use it.** Read it when the drill's `./context.md` is revised, and any
 time a grade feels off. Run the replies below through the current grader and compare.
 A disagreement is not automatically the grader's fault — but it has to be resolved
 deliberately, here, rather than silently absorbed into a session.
@@ -18,7 +18,7 @@ up too. The growth path is live reps: a tier-2 model answer worth keeping, with 
 per-dimension reasoning already attached, is exactly an entry here. Add them as they
 happen; keep the file re-readable in one sitting.
 
-Dimensions are `./rubric.md`'s: **Detection**, **Subtext**, **Leverage**,
+Dimensions are `./context.md`'s: **Detection**, **Subtext**, **Leverage**,
 **Thermodynamics and presence**.
 
 ---
