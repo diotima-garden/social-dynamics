@@ -4,6 +4,11 @@ banks:
   - name: social-dynamics
     bank: ./memory
     graduate: false
+    # The drills ARE the content here: a rep is a simulator turn plus a grade, and
+    # mneme's default of 3 trailing assistant turns captures only whatever the session
+    # ended on (a commit, a file edit) — the reps themselves fall off. 25 covers a
+    # normal drill session end to end.
+    responses: 25
     patterns:
       # Fallback only: when the session's subject IS this grove the orchestrator sets
       # in_session_scope and these are not consulted. They exist for a session run from
