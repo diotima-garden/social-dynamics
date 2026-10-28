@@ -24,6 +24,9 @@ prompt, don't invent a drill.
      reports), if there is one. It already names the single active target and the queue;
      use that directly rather than re-deriving a menu. Nothing else in the private area is
      a drill menu — the sprint log belongs to `../reps/`.
+     **Read the cue set, never advance it** — proposing a slot or a reorder is fine when
+     asked, but moving the active pointer or writing a ruling is the practitioner's call on
+     real-world rep evidence from `../reps/`, never on drill performance.
    - **The bank**, if there's no private layer or it's silent on what's next — patterns it
      flags as unfinished (`../memory/small-bank.md`).
    - **`../principles.md`**, only if neither source gives a signal.
