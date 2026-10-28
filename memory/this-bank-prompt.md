@@ -1,6 +1,3 @@
-This is the social-dynamics training bank. It records how boundary-setting drills went
-and what patterns surfaced — the abstract training signal only, never personal specifics.
-
 ALWAYS capture (never SKIP) sessions that ran a drill, reflected on a real social
 situation, or changed the simulator/principles. For anything else (infrastructure,
 unrelated work), respond with exactly SKIP.
