@@ -15,7 +15,7 @@ banks:
       # elsewhere (master, another grove) that works on this one, so they name the
       # surfaces such a session actually touches, not the bank's own index file.
       - "social-dynamics/(drills|reps|memory)/"
-      - "social-dynamics/(principles|improvement-plan)\\.md"
+      - "social-dynamics/principles\\.md"
 ---
 
 # social-dynamics — frame-control drills grove
@@ -40,8 +40,14 @@ drill. Read `./drills/context.md` — it owns how a drill is picked and run.
 | `./principles.md` | What good looks like under social pressure — calibrated assertiveness, and the failure modes in *both* directions. The target every drill trains toward. |
 | `./research/` | Whether a text simulator builds boundary skills at all: efficacy evidence, and this grove's honest ceiling. |
 | `./reps/` | Real-world rep loops. `context.md` is how a sprint is designed here — cue form, the residue discriminator, capture, schema. The one place this grove produces evidence instead of consuming it. The live sprint is private, not here. |
-| `./improvement-plan.md` | What is deliberately not built yet, in priority order, with the reasoning. Consult before proposing a change to this grove. |
+| `<private area>/social-dynamics/calibration-entries.md` | The dating-frame calibration entries — scenarios and the practitioner's **verbatim** replies. Private and untracked by rule; `./drills/context.md` step 5 says why and how a new entry is written. |
 | `./parents/behavior-rewiring/` | Parent node — **how behavior changes**: mechanism, evidence graded A–F (several popular claims fail), reusable rep protocols. Read **before designing any drill or rep loop**; read in place, and let its own `DAFNE.md` route you inside. |
+
+**Before proposing a change to this grove, read the file it would change.** What is
+deliberately not built yet is recorded where it applies — each drill's `context.md` has a
+**Known gaps** section, `./reps/context.md` owns the rep loop's state, `./drills/context.md`
+owns the conventions. There is no separate plan file; it drifted out of sync with the files
+it described and was dropped (`git log -- improvement-plan.md` for the reasoning it held).
 
 **The division of labour with the parent: it knows how behavior changes; this grove knows
 what good looks like under social pressure.** Don't re-derive mechanism here, and don't put

@@ -166,8 +166,13 @@ is used to avoid saying the thing.
 tier-2 answers from live reps are the intake path, but this drill has none of its own, so
 treat grades and model answers as prompts for your own judgment rather than verdicts. The
 risk is sharper here than in `dating-frame`, because the Cost dimension is a judgment
-about a relationship the grader cannot see. Tracked as the remainder of
-`../../improvement-plan.md` #1.
+about a relationship the grader cannot see — and the grader *is* the feedback mechanism, so
+a mis-grade trains the wrong reflex rather than merely mis-scoring one.
+
+**It is intake, not an authoring project.** The modeling step already produces, in live
+reps, exactly what the artifact contains — a worked example with its per-dimension
+reasoning attached. What it needs is the habit of recording those, private-first
+(`../context.md` step 5), not an afternoon of inventing them.
 
 **Ceiling, same as every drill in this grove:** this trains noticing and having a reply
 ready. It does not train staying composed when it is real — that needs arousal in the

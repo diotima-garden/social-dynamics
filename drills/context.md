@@ -45,10 +45,31 @@ prompt, don't invent a drill.
    verbatim from the private file. Exact wording, repeated; not a paraphrase.
 
 4. **Don't hand-write the bank.** Capture is automatic via `../memory/this-bank-prompt.md`'s
-   de-identifying transform. A `calibration.md` entry built from a private-layer scenario
-   must be re-generified the same way before it lands — or it doesn't land.
+   de-identifying transform.
+
+5. **A calibration entry is written private-first.** The transform in step 4 de-identifies
+   the *counterparty*; it has nothing to say about the practitioner's own words, and a
+   generified scenario with his verbatim reply still under it is not safe to track. So the
+   entry — scenario, verbatim reply, per-dimension reasoning, calibrated contrast — is
+   written to `<private area>/social-dynamics/calibration-entries.md`. What lands in the
+   tracked `./<name>/calibration.md` is a row in its index: the scenario *class*, the reply
+   *class*, the correct grade, and what the entry is in the set to catch. **The reply text
+   never lands, in any form** — not quoted, not paraphrased, and not in a commit message.
 
 ## The ceiling
 
 Text drills train recognition and having a reply ready (rungs 1–2 of `../principles.md`),
 not composure under real pressure (rung 3) — that needs `../reps/`. See `../research/`.
+
+## Why this file exists at all
+
+The shared "how to run a drill" procedure lives here rather than in `../DAFNE.md`, so the
+always-loaded manifest carries a routing table and the one turn-1 rule, and the procedure
+is read at the moment it applies. The *new* part of that shape is a mid-level directory
+context sitting between the manifest and a leaf.
+
+Recorded because it is a pattern other groves could inherit, and inheriting it by accident
+is worse than adopting it deliberately. Nothing in the engine knows about it — only a
+manifest's YAML frontmatter is machine-read, so this is a convention, not a contract. It
+has **not** been promoted to the orchestrator's architect layer; if a second grove wants
+the same shape, promote it there rather than copying this directory.

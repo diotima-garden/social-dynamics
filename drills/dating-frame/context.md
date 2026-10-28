@@ -16,7 +16,7 @@ than every rep:
 
 | Path | What | When |
 |---|---|---|
-| `./calibration.md` | The gold-standard set the grader is anchored to — six cases with known correct grades, spanning both failure poles. | When this file is revised, or when a grade feels off. Live tier-2 answers are its intake path. |
+| `./calibration.md` | The gold-standard set the grader is anchored to — twelve cases with known correct grades, spanning both failure poles. Index and discrimination structure only; the scenarios and the verbatim replies are private (`<private area>/social-dynamics/calibration-entries.md`). | When this file is revised, or when a grade feels off. Live tier-2 answers are its intake path — private-first, see `../context.md` step 5. |
 
 ---
 
