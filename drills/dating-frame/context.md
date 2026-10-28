@@ -46,6 +46,27 @@ calibration in both directions) live in `../../principles.md`.
 
 ---
 
+## Register: lexical leak vs. protective distance
+
+This practitioner's working English is corporate banking email (hundreds of long mails a
+month), and English is not his first language. A large share of what grades as *coldness*
+on Thermodynamics is transfer from that register, not protective distance. They need
+different fixes, so **name which one you think it is** rather than grading both as
+"cold".
+
+- **Register transfer** — Latinate words where short ones exist (*unfortunate, appreciate,
+  understood, regrettable, acceptable*); no `I` and no `you` in the sentence; no
+  contractions; abstract *that/this* in place of the named thing; feeling reported rather
+  than stated. The fix is lexical: short Germanic words, a person as the subject, name the
+  specific thing ("Saturday", not "that"), one hedge maximum, present-tense first person.
+  *"I like you"* beats anything buildable out of Latin.
+- **Protective distance** — silence; armour-wit; a barb with deniability; a grand or
+  literary register; warmth quarantined in its own clause, stapled to a procedural one.
+  The fix is not lexical, and saying so is part of the grade.
+
+Ornate fails the same way formal does: both remove the writer from the text. The target is
+**plain**, not casual — forced slang reads worse than formality.
+
 ## Operating instruction
 
 *This section is the instruction for the session agent running the drill — adopt it

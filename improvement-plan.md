@@ -50,6 +50,7 @@ domain, never a second copy of the loop.
 | Second drill for obligation pressure — not a reskin: non-exitable relationship, delay legitimate, its own dimensions | `drills/saying-no/context.md` |
 | Grader-calibration artifact for the first drill | `drills/dating-frame/calibration.md` |
 | Modeling step — tier 1 names the missing move every rep, tier 2 gives one example line on request or a bad miss. Rationale: the parent's if-then anchor is the best-evidenced mechanism in the area, and a grade cannot become an anchor | both drills' `context.md` |
+| Register dimension split — coldness graded as either L2/corporate-email lexical transfer or protective distance, because the two need different fixes | `drills/dating-frame/context.md` |
 | One file per drill — grading dimensions and the simulator instruction folded into each drill's `context.md`, superseded simulator drafts dropped to git history | `drills/*/context.md` |
 
 ---
