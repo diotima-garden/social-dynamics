@@ -11,8 +11,8 @@ live there; how a drill is picked and run is shared across drills and lives in
 `../context.md`.
 
 **This file is the whole drill** — what it trains, how it is graded, and the operating
-instruction the session agent adopts. No calibration set exists for this drill yet; see
-"Known gaps" below.
+instruction the session agent adopts. One other file belongs to it: `./calibration.md`,
+the start of a calibration set, read when this file is revised or a grade feels off.
 
 ## What makes this different from `dating-frame`
 
@@ -162,9 +162,10 @@ is used to avoid saying the thing.
 
 ## Known gaps
 
-**No calibration set yet.** `../dating-frame/calibration.md` is the worked precedent and
-tier-2 answers from live reps are the intake path, but this drill has none of its own, so
-treat grades and model answers as prompts for your own judgment rather than verdicts. The
+**Thin calibration set.** `./calibration.md` holds three entries from one exchange, none
+with real pressure in it, and tier-2 answers from live reps are the intake path. Until it
+covers a crossing, treat grades and model answers as prompts for your own judgment rather
+than verdicts. The
 risk is sharper here than in `dating-frame`, because the Cost dimension is a judgment
 about a relationship the grader cannot see — and the grader *is* the feedback mechanism, so
 a mis-grade trains the wrong reflex rather than merely mis-scoring one.

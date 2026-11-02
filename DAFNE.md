@@ -35,7 +35,7 @@ drill. Read `./drills/context.md` — it owns how a drill is picked and run.
 |---|---|
 | `./memory/small-bank.md` | This grove's memory — recent sessions, and which failure *this* practitioner keeps repeating. **Read it now if it is not already in your context**; depending on how the grove was opened it may not have been injected. Empty or missing means nothing captured yet, which is normal, not broken. |
 | `./drills/context.md` | **How to run a drill** — picking the resume point, which files to adopt, how to grade. Read before running one. |
-| `./drills/<name>/context.md` | One self-contained drill in one file: what it trains, its grading dimensions, and the simulator instruction to adopt. `dating-frame` and `saying-no` are built; the former also carries a `calibration.md`. |
+| `./drills/<name>/context.md` | One self-contained drill in one file: what it trains, its grading dimensions, and the simulator instruction to adopt. `dating-frame` and `saying-no` are built; each also carries a `calibration.md`. |
 | `<private area>/social-dynamics/` | User private files like cues and behavioural patterns. |
 | `./principles.md` | What good looks like under social pressure — calibrated assertiveness, and the failure modes in *both* directions. The target every drill trains toward. |
 | `./research/` | Whether a text simulator builds boundary skills at all: efficacy evidence, and this grove's honest ceiling. |
