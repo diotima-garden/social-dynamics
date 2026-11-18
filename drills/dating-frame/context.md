@@ -146,6 +146,15 @@ to a confident wrong reflex than mis-scoring alone. `./calibration.md` is the ch
 it is a seed set rather than a canon: treat both grades and model answers as a prompt for
 your own judgment rather than a verdict.
 
+**Clause-level grading, gist-level conversation.** The grader reads a transcript clause by
+clause ("the reply answered this clause and skipped that one"). Live, nobody does that:
+people take in the gist of what was said and answer the gist, and the practitioner says so
+himself. So a clause finding describes the training target. It is not a procedure to run
+live. What the reps are meant to change is what the gist *contains*, so that the affect
+clause is the most noticeable part of what he hears and doesn't get filtered out. Not built
+yet: tier-1 phrased as what the gist should have held, plus a single live check ("what is
+she feeling right now?"), rather than a clause he should have parsed.
+
 **Ceiling:** this drill trains noticing and having a reply ready (rungs 1–2 of
 `../../principles.md`), not staying composed when it is real. That needs `../../reps/`.
 See `../../research/`. The real-world log's *residue* test (still bothering you hours
